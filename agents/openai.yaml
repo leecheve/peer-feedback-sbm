@@ -1,0 +1,4 @@
+interface:
+  display_name: "Peer Feedback Coach"
+  short_description: "Draft HR peer feedback with SBE"
+  default_prompt: "Help me draft peer-review answers using SBE from my facts only. Use the default template unless I provide a different questionnaire."
