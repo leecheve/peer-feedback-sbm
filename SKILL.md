@@ -74,7 +74,7 @@ If evidence is insufficient for any question, ask targeted follow-up prompts ins
 
 ## Reference
 
-Load and follow `/Users/luisecheverria/.codex/skills/peer-feedback-coach/references/sbe-reference.md` for:
+Load and follow `references/sbe-reference.md` for:
 
 - SBE definitions and anti-patterns.
 - Default question mapping.
